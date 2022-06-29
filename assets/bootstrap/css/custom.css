@@ -1,0 +1,16 @@
+.myHomeBg{
+    background-color: #7b6ea1;
+}
+.contentDiv{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.contentLeft{
+    background-color: #afafaf;
+    height: 60vh;
+}
+.contentRight{
+    background-color: #ffffff;
+    height: 60vh;
+}
